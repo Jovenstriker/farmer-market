@@ -1,3 +1,4 @@
+# farmer-market
 The goal is to build a project that allow farmers to easily sell their produce, set a event, adjust prices, etc.
 
 Backend code to connect with React frontend code
